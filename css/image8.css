@@ -1,0 +1,23 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+#container
+{
+position:relative;
+width:100%;
+margin:auto;
+margin-top:-55px;
+}
+#image1 img
+{
+width:100%;
+margin:auto;
+}
+#image1 img:hover
+{
+opacity: .8;
+-moz-opacity: 0.5;
+filter:alpha(opacity=80);
+}
